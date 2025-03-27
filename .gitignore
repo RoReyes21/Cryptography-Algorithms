@@ -1,1 +1,4 @@
 test.txt
+*.out
+*.exe
+*.h.gch
