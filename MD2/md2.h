@@ -4,6 +4,8 @@
 #include <string>
 #include <iostream>
 #include <vector>
+#include <sstream>
+#include <iomanip>
 
 #define S_SIZE 256
 
