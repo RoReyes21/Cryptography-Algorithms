@@ -1,3 +1,4 @@
+// @author: Rodrigo Reyes 
 #ifndef KID_H
 #define KID_H
 

@@ -1,3 +1,4 @@
+// @author: Rodrigo Reyes
 #include "kid.h"
 
 #include <iostream>
